@@ -1,0 +1,10 @@
+nav{ /*корешок*/
+  background: #B69C8D;
+  width: 10%;
+  position: fixed;
+  padding: 47px;
+  box-sizing: border-box;
+  height: 100%;
+  display: block;
+  padding-bottom: 10px;
+}

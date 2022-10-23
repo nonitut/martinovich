@@ -1,0 +1,10 @@
+.imgleft{
+display: block;
+margin: auto;
+}
+
+.imgright{
+display: block;
+margin-top: 5%;
+margin-left: 32%;
+}

@@ -1,0 +1,120 @@
+.upper_block{ /*блок с названием шрифта*/
+  width: 90%;
+  height: 28vh;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.all{
+  width: 90%;
+  margin-left: 10%;
+}
+
+section{ /*центральные блоки обложки*/
+display: flex;
+margin-left: auto;
+margin-right: auto;
+}
+
+.red_block{ /*левый блок обложки*/
+  background-color: #EC563B;
+  width: 49.5%;
+  height: 72vh;
+}
+
+.center_block{ /*разделитель обложки*/
+  background-color: #F3EEDA;
+  width: 1%;
+  height: 72vh;
+}
+
+.blue_block{ /*правый блок обложки*/
+  background-color: #3F518C;
+  width: 49.5%;
+  height: 72vh;
+}
+
+.start_block{ /*блок с текстом*/
+  margin-top: 3%;
+  width: 90%;
+  text-align: center;
+  margin-bottom: 3%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.howitstarted{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.sec2{
+  width: 100%;
+}
+
+.columnleft1{ /*колонка текста*/
+  width: 80%;
+  text-align: left;
+  margin-right: 30px;
+  margin-left: 60px;
+}
+
+.columnright1{ /*колонка маргиналий*/
+  width: 25%;
+  margin-left: 30px;
+  margin-right: 60px;
+  text-align: left;
+}
+
+.imgscheme{
+  margin-top: 4%;
+  width: 95%;
+}
+
+.function_block{ /*блок с текстом 2*/
+  margin-top: 7%;
+  width: 90%;
+  text-align: center;
+  margin-bottom: 3%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.spectral{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.sec3{
+  width: 100%;
+}
+
+.columnleft2{ /*колонка текста*/
+  width: 80%;
+  text-align: left;
+  margin-right: 30px;
+  margin-left: 60px;
+}
+
+.columnright2{ /*колонка маргиналий*/
+  width: 25%;
+  margin-left: 30px;
+  margin-right: 60px;
+  text-align: left;
+}
+
+.imgscheme2{
+  margin-top: 4%;
+  width: 95%;
+}
